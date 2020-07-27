@@ -1,0 +1,41 @@
+.main{
+    border: 2px solid red;
+    width: 37%;
+    margin: 0 auto;
+    padding: 2px 2px 2px 2px;
+    background-color: rgb(240, 239, 239);
+}
+
+
+.top{
+    
+    width: 100%;
+}
+
+.text:focus{
+    background-color: lightskyblue;
+}
+.clearBtn{
+    width: 100%;
+    margin:  1px 0 1px 0px;
+}
+.clearBtn:hover{
+    background-color: lightslategrey;
+}
+.fbtn{
+    width: 23%;
+    margin:  3px 0 3px 0px;
+    background-color: rgb(116, 124, 148);
+}
+.fbtn:hover{
+    background-color: rgb(174, 191, 207);
+}
+.lastBtn{
+    width: 48.2%;
+}
+.lastBtn:hover{
+    background-color: lightslategrey;
+}
+input{
+    width: 97%;
+}
